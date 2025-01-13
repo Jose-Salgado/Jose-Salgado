@@ -3,18 +3,13 @@
 
 - 🌱 Sigo desarrollando mis habilidades en **SQL, Power BI, Python**
 
-- 👯 Me gustaría colaborar en proyectos que me desafien **Análisis de datos**
+- 👯 Me gustaría colaborar en proyectos que me desafien **Análisis de datos** 
 
-- 🤝 Me gusta trabajar en **equipo**
+- 🤝 Me gusta trabajar en **equipo**  - 👨‍💻 Mis proyectos están en GITHUB
 
-- 👨‍💻 Mis proyectos están en GITHUB
+- 📝 Regularmente estoy aprendiendo o desarrollando proyectos - 💬 Puedes preguntarme sobre **Análisis de datos, Finanzas y Operaciones**
 
-- 📝 Regularmente estoy aprendiendo o desarrollando proyectos
-
-- 💬 Puedes preguntarme sobre **Análisis de datos, Finanzas y Operaciones**
-
-- 📫 Puedes contactarme por correo o Linkedin **jascpp@gmail.com**
-- https://www.youtube.com/@LlllKkk-p9p
+- 📫 Puedes contactarme por correo o Linkedin **jascpp@gmail.com** - 📫 https://www.youtube.com/@LlllKkk-p9p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
