@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy José Salgado</h1>
 <h3 align="center">Un apasionado por los datos y el aprendizaje continuo</h3>
 
-- 🌱 Sigo desarrollando mis habilidades en **SQL, Power BI, Python**
+- 🌱 Sigo desarrollando mis habilidades en **SQL, Power BI, Python, Excel, Knime**
 
 - 👯 Me gustaría colaborar en proyectos que me desafien **Análisis de datos** 
 
