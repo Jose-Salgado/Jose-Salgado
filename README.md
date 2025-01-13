@@ -14,6 +14,7 @@
 - 💬 Puedes preguntarme sobre **Análisis de datos, Finanzas y Operaciones**
 
 - 📫 Puedes contactarme por correo o Linkedin **jascpp@gmail.com**
+- https://www.youtube.com/@LlllKkk-p9p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
