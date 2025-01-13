@@ -3,7 +3,7 @@
 
 - 🌱 Sigo desarrollando mis habilidades en **SQL, Power BI, Python, Excel, Knime**
 
-- 👯 Me gustaría colaborar en proyectos que me desafien **Análisis de datos** 
+- 👯 Me gustaría colaborar en proyectos que me desafien en **Análisis de datos** 
 
 - 🤝 Me gusta trabajar en **equipo**  - 👨‍💻 Mis proyectos están en GITHUB
 
